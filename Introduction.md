@@ -11,3 +11,7 @@ C'est cela : l'humanité n'a jamais eu d'encyclopédie pour apprendre la drague,
 Afin de pallier à ce problème, j'ai décidé de créer cette encyclopédie sur la drague. J'y écrirai tout ce que je sais, ou du moins, pense savoir. Bien sûr, je ne prétends pas connaître la Vérité, puisqu'après tout, qu'est ce que la Vérité ? N'est-elle pas subjective ? Suffisamment de philosophes s'y sont frottés pour que nous puissions dire que la vérité n'est pas quelque chose de fondé, d'universel et qu'aucune pensée n'est unanime.
 
 C'est pourquoi j'invite ici toute personne ayant ses propres connaissances ou experiences à les écrire de la manière la plus philosophique possible, afin que tout le monde puisse en discuter et profiter de la toute première encyclopédie open-source sur l'art de la drague.
+
+### Sommaire
+
+- [[Définition]]
